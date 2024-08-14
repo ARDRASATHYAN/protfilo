@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/protfilo/static/css/main.bf538fe7.css",
+    "main.js": "/protfilo/static/js/main.2613ef70.js",
+    "static/media/Screenshot (474).png": "/protfilo/static/media/Screenshot (474).b39bd0962c324c0ce50f.png",
+    "static/media/Screenshot (483).png": "/protfilo/static/media/Screenshot (483).d4bc3999156135240e29.png",
+    "static/media/Screenshot (482).png": "/protfilo/static/media/Screenshot (482).762aee4268393be4422d.png",
+    "static/media/Screenshot (475).png": "/protfilo/static/media/Screenshot (475).013b564de08888037174.png",
+    "static/media/Screenshot (480).png": "/protfilo/static/media/Screenshot (480).af42742a7333ccc0ffcc.png",
+    "static/media/ardra.jpg": "/protfilo/static/media/ardra.6d08639d524b91bb5408.jpg",
+    "static/media/Screenshot (481).png": "/protfilo/static/media/Screenshot (481).4934383491f0de39b3b2.png",
+    "static/media/Screenshot (479).png": "/protfilo/static/media/Screenshot (479).671c40e7ce749a11eb56.png",
+    "index.html": "/protfilo/index.html",
+    "main.bf538fe7.css.map": "/protfilo/static/css/main.bf538fe7.css.map",
+    "main.2613ef70.js.map": "/protfilo/static/js/main.2613ef70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.2613ef70.js"
+  ]
+}
